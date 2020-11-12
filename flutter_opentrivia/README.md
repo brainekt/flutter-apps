@@ -3,8 +3,7 @@ A quiz app in flutter using the [open trivia api](https://opentdb.com)
 
 [![opentrivia](https://snapcraft.io//opentrivia/badge.svg)](https://snapcraft.io/opentrivia)
 
-- [Deployed in Github](https://lohanidamodar.github.io/flutter_opentrivia/#/)
-- [Install in Linux](https://snapcraft.io/opentrivia)
+
 
 ## Libraries used
 - [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)
@@ -18,4 +17,6 @@ A quiz app in flutter using the [open trivia api](https://opentdb.com)
 
 ## To-do
 
-We will change the `lib/resources/api_provider.dart` -> here, we'll use our own api, similar to open trivia api for our own quiz app.
+ * Design an API similar to open trivia
+
+ * We will change the `lib/resources/api_provider.dart` -> here, we'll use our own api, similar to open trivia api for our own quiz app.
